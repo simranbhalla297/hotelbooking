@@ -12,7 +12,7 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head> */}
 
-      <CarName>{"simran"}</CarName>
+      <CarName>{"simran bhalla"}</CarName>
 
       {/* <footer className={styles.footer}>
         <a
