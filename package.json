@@ -10,11 +10,23 @@
     "seeder": "node utilis/seeder"
   },
   "dependencies": {
+    "@emotion/react": "^11.10.5",
+    "@emotion/server": "^11.10.0",
+    "@emotion/styled": "^11.10.5",
+    "@mui/icons-material": "^5.11.9",
+    "@mui/material": "^5.10.16",
+    "@reduxjs/toolkit": "^1.9.2",
     "mongoose": "^6.9.0",
     "next": "13.1.6",
     "next-connect": "^0.13.0",
+    "next-redux-wrapper": "^8.1.0",
     "react": "18.2.0",
-    "react-dom": "18.2.0"
+    "react-dom": "18.2.0",
+    "react-redux": "^8.0.5",
+    "redux": "^4.2.1",
+    "redux-devtools-extension": "^2.13.9",
+    "redux-thunk": "^2.4.2",
+    "tailwind-styled-components": "^2.2.0"
   },
   "devDependencies": {
     "autoprefixer": "^10.4.13",
